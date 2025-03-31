@@ -1,16 +1,44 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Airlines Database
+- project: Airlines Database
+  duration: [4 months]
+  url: "https://github.com/ablepacifist/AirlineDB"
+  description: Collaborated with a team to design and develop an SQL-based database system. This database stored and managed comprehensive data on airlines, aircraft, airports, flights, accidents, etc,  streamlining information retrieval and analysis.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# CNN for Image classification
+- project: CNN for Image classification
+  duration: [1 month]
+  url: "https://github.com/ablepacifist/mnist_cnn"
+  description: [Manualy Implemented a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset without the use of outside libraries exept numpy for cpu version and cupy for gpu acceleration. The model achieved an accuracy of 98% on the test set.]
+
+# Photo Compression
+- project: Alchemy app
+  duration: [8 months]
+  url: https://github.com/ablepacifist/AlchemyApp
+  description: [This project is an Android app for my D&D players who use my homebrew alchemy system it demonstrates my best coding practices for long term projects since I will be adding to this later on.]
+
+# Photo Compression
+- project: Photo Compression
+  duration: [1 month]
+  # url: "#" ##fill this in
+  description: [Example use of the Single Value Decomposition (SVD) algorithm to compress images]
+
+# Combination Calculator
+- project: Combination Calculator
+  duration: [4 months]
+  url: "https://github.com/ablepacifist/pokemon"
+  description: Currently a work in progress, this project focuses on building a system to analyze optimal Pokémon battle match-ups. The goal is to efficiently store and process extensive battle data while minimizing RAM usage. Programmed in C for performance and memory optimization.
+
+
+# Price Predictive Program
+- project: Price Predictive Program
+  duration: [4 months]
+  url: "https://github.com/ablepacifist/Diamonds_AI"
+  description: Built a neural network from scratch to predict diamond prices based on features such as cut, color, and clarity. This was my first venture into machine learning, sparking my interest in the field. The program trains on a dataset of diamond attributes, providing valuable predictive insights. Since then, I have taken additional classes to deepen my knowledge of machine learning.
+
+# Text-Based Strategy Game
+- project: Text-Based Strategy Game
+  duration: [6 months]
+  url: "https://github.com/ablepacifist/BattleSim"
+  description: Developed a Java-based strategy game designed primarily for my Dungeons & Dragons campaign. The game allows players to command large armies, taking turns to strategize and battle against each other.

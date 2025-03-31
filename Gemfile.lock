@@ -7,8 +7,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.8.1)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.8.7)
+      public_suffix (>= 2.0.2, < 7.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -16,12 +16,12 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.2.0)
+    concurrent-ruby (1.3.5)
     dnsruby (1.61.3)
       addressable (~> 2.5)
-    em-websocket (0.5.1)
+    em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
+      http_parser.rb (~> 0)
     ethon (0.15.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
@@ -50,8 +50,7 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
-    ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
+    ffi (1.15.4.pre1)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (205)
@@ -106,7 +105,7 @@ GEM
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    http_parser.rb (0.6.0)
+    http_parser.rb (0.8.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.8.7)
@@ -216,7 +215,7 @@ GEM
       jekyll (>= 3.0, < 5.0)
     kramdown (1.17.0)
     liquid (4.0.3)
-    listen (3.7.1)
+    listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -239,9 +238,10 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
     racc (1.6.2)
-    rb-fsevent (0.10.4)
-    rb-inotify (0.10.1)
+    rb-fsevent (0.11.2)
+    rb-inotify (0.11.1)
       ffi (~> 1.0)
+    rexml (3.4.1)
     rouge (3.13.0)
     ruby-enum (0.8.0)
       i18n
@@ -264,6 +264,8 @@ GEM
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
+    wdm (0.2.0)
+    webrick (1.9.1)
     zeitwerk (2.6.6)
 
 PLATFORMS
@@ -272,6 +274,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  rexml
+  wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.1.4

@@ -1,12 +1,26 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Programming languages
+- skill: Programming languages
+  description: Proficient in C/C++, Java, Python, and other languages for software development.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database management
+- skill: Database management
+  description: Experienced with tools and concepts for structuring, querying, and maintaining databases.
+
+# Machine learning and AI techniques
+- skill: Machine learning and AI techniques
+  description: Expertise in neural network theory and implementation, beyond high-level frameworks like TensorFlow. Skilled at manually coding neural network architectures and applying concepts for practical solutions.
+
+# Developer tools
+- skill: Developer tools
+  description: Familiar with Git for version control, UNIX/Linux Shell, and Android Studio.
+
+# Object-oriented programming
+- skill: Object-oriented programming
+  description: Solid understanding of OOP principles and ability to apply them effectively.
+
+# Microsoft Office Suite
+- skill: Microsoft Office Suite
+  description: Adept at using Word, Excel, PowerPoint, and other Office tools for productivity and communication.
+
