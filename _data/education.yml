@@ -18,4 +18,5 @@
 - degree: High School Diploma
   uni: Lakeville north high school
   year: 2017
-  award: AVID Award Scholarship
+  awards:
+   -award: AVID Award Scholarship
