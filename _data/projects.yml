@@ -12,7 +12,13 @@
   url: "https://github.com/ablepacifist/mnist_cnn"
   description: [Manualy Implemented a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset without the use of outside libraries exept numpy for cpu version and cupy for gpu acceleration. The model achieved an accuracy of 98% on the test set.]
 
-# Photo Compression
+#3350 project
+- project: Stalendar
+  duration: 4 months
+  url: "#"  # Add the relevant URL here if applicable
+  description: Collaborative group project focused on Agile development, resulting in a student-focused calendar app. Features included event storage and a "Study Buddy" tool for timed study sessions, music playback, and study reminders.
+
+#Alchemy app
 - project: Alchemy app
   duration: [8 months]
   url: https://github.com/ablepacifist/AlchemyApp
