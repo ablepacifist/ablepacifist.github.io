@@ -2,25 +2,44 @@
 
 # Programming languages
 - skill: Programming languages
-  description: Proficient in C/C++, Java, Python, and other languages for software development.
+  description: Proficient in C/C++, Java, Python, and SQL, developed through projects such as the Combination Calculator and Airlines Database, as well as academic coursework.
 
 # Database management
 - skill: Database management
-  description: Experienced with tools and concepts for structuring, querying, and maintaining databases.
+  description: Skilled in designing, querying, and maintaining databases (e.g., SQL, MongoDB, MySQL), with experience gained through the Airlines Database project.
 
 # Machine learning and AI techniques
 - skill: Machine learning and AI techniques
-  description: Expertise in neural network theory and implementation, beyond high-level frameworks like TensorFlow. Skilled at manually coding neural network architectures and applying concepts for practical solutions.
+  description: Expertise in neural network development using frameworks like TensorFlow and PyTorch, alongside manual implementation of CNN architectures and SVD techniques.
+
+# High-performance computing
+- skill: High-performance computing
+  description: Experienced in utilizing GPU acceleration frameworks such as CuPy and cuDNN, applied in projects like Mosquito Predictor and CNN for Image Classification.
+
+# Agile development and collaboration
+- skill: Agile development and collaboration
+  description: Experienced in debugging, testing, and documentation within agile environments, contributing to projects such as Stalendar.
+
+# Algorithm design and optimization
+- skill: Algorithm design and optimization
+  description: Proficient in designing efficient algorithms and optimizing low-level data processing, refined through projects like Combination Calculator.
+
+# Mobile app development
+- skill: Mobile app development
+  description: Experienced in developing Android applications using Android Studio, exemplified by long-term projects like Alchemy App.
+
+# Software engineering principles
+- skill: Software engineering principles
+  description: Proficient in applying modular design and SOLID principles to ensure scalable and maintainable codebases.
+
+# Game development and simulation
+- skill: Game development and simulation
+  description: Knowledgeable in game design and simulation programming, including graphical rendering and animations, applied in XWing Game and Text-Based Strategy Game.
 
 # Developer tools
 - skill: Developer tools
-  description: Familiar with Git for version control, UNIX/Linux Shell, and Android Studio.
+  description: Familiar with Git for version control, UNIX/Linux Shell, and Android Studio, applied across various projects.
 
-# Object-oriented programming
-- skill: Object-oriented programming
-  description: Solid understanding of OOP principles and ability to apply them effectively.
-
-# Microsoft Office Suite
-- skill: Microsoft Office Suite
-  description: Adept at using Word, Excel, PowerPoint, and other Office tools for productivity and communication.
-
+# Mathematics for computer science
+- skill: Mathematics for computer science
+  description: Background in discrete math, linear algebra, calculus, and graph theory, applied in algorithms, machine learning models, and optimization tasks.

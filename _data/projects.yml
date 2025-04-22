@@ -1,50 +1,57 @@
 # Projects
+# Projects
 
-# Airlines Database
-- project: Airlines Database
-  duration: [4 months]
-  url: "https://github.com/ablepacifist/AirlineDB"
-  description: Collaborated with a team to design and develop an SQL-based database system. This database stored and managed comprehensive data on airlines, aircraft, airports, flights, accidents, etc,  streamlining information retrieval and analysis.
+# Mosquito Predictor
+- project: Mosquito Predictor
+  duration: Feb 2025 – Present
+  url: "https://github.com/ablepacifist/Mosquito-predictor"
+  description: Developed a neural network system employing CNN and fully connected models to classify mosquito breeding sites. Leveraged TensorFlow for high-level implementation (97% accuracy) and cuDNN API for GPU acceleration.
 
-# CNN for Image classification
-- project: CNN for Image classification
-  duration: [1 month]
-  url: "https://github.com/ablepacifist/mnist_cnn"
-  description: [Manualy Implemented a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset without the use of outside libraries exept numpy for cpu version and cupy for gpu acceleration. The model achieved an accuracy of 98% on the test set.]
-
-#3350 project
+# Stalendar
 - project: Stalendar
-  duration: 4 months
-  url: "#"  # Add the relevant URL here if applicable
-  description: Collaborative group project focused on Agile development, resulting in a student-focused calendar app. Features included event storage and a "Study Buddy" tool for timed study sessions, music playback, and study reminders.
+  duration: Jan 2025 – May 2025
+  url: "https://github.com/ablepacifist/Stalendar_demo"
+  description: Collaborative project using Agile methodologies to build a student-focused calendar app. Included event storage and a "Study Buddy" tool. Contributed through debugging, feature implementation, testing, and documentation.
 
-#Alchemy app
-- project: Alchemy app
-  duration: [8 months]
-  url: https://github.com/ablepacifist/AlchemyApp
-  description: [This project is an Android app for my D&D players who use my homebrew alchemy system it demonstrates my best coding practices for long term projects since I will be adding to this later on.]
+# CNN for Image Classification
+- project: CNN for Image Classification
+  duration: Jan 2025
+  url: "https://github.com/ablepacifist/mnist_cnn"
+  description: Manually implemented a CNN using NumPy and CuPy to classify handwritten digits from the MNIST dataset. Achieved 98% accuracy through neural network design and performance optimization.
 
-# Photo Compression
-- project: Photo Compression
-  duration: [1 month]
-  # url: "#" ##fill this in
-  description: [Example use of the Single Value Decomposition (SVD) algorithm to compress images]
-
-# Combination Calculator
-- project: Combination Calculator
-  duration: [4 months]
-  url: "https://github.com/ablepacifist/pokemon"
-  description: Currently a work in progress, this project focuses on building a system to analyze optimal Pokémon battle match-ups. The goal is to efficiently store and process extensive battle data while minimizing RAM usage. Programmed in C for performance and memory optimization.
-
+# Alchemy App
+- project: Alchemy App
+  duration: Sept 2024 – Feb 2025
+  url: "https://github.com/ablepacifist/AlchemyApp"
+  description: Developed an Android app for a custom homebrew alchemy system for D&D players. Focused on long-term code maintainability and end-to-end mobile app development.
 
 # Price Predictive Program
 - project: Price Predictive Program
-  duration: [4 months]
+  duration: Jan 2024 – May 2024
   url: "https://github.com/ablepacifist/Diamonds_AI"
-  description: Built a neural network from scratch to predict diamond prices based on features such as cut, color, and clarity. This was my first venture into machine learning, sparking my interest in the field. The program trains on a dataset of diamond attributes, providing valuable predictive insights. Since then, I have taken additional classes to deepen my knowledge of machine learning.
+  description: Built a neural network from scratch to predict diamond prices based on features like cut, color, and clarity. Applied skills in model design, data processing, and evaluation with TensorFlow.
+
+# XWing Game
+- project: XWing Game
+  duration: Sept 2023 – Dec 2023
+  url: "https://github.com/ablepacifist/XWing_game"
+  description: Developed a space shooter game showcasing advanced graphical techniques, such as texture mapping and smooth animations. Designed and implemented the graphical pipeline.
+
+# Airlines Database
+- project: Airlines Database
+  duration: Sept 2023 – Dec 2023
+  url: "https://github.com/ablepacifist/AirlineDB"
+  description: Collaborated with a team to design and develop an SQL-based database system managing data on airlines, aircraft, airports, flights, and accidents. Took primary responsibility for SQL design and database connection.
+
+# Combination Calculator
+- project: Combination Calculator
+  duration: Jan 2021 – Aug 2021
+  url: "https://github.com/ablepacifist/pokemon"
+  description: Built a C-based system to analyze optimal Pokémon battle match-ups. Designed efficient algorithms and low-memory data structures for performance optimization.
 
 # Text-Based Strategy Game
 - project: Text-Based Strategy Game
-  duration: [6 months]
+  duration: Sept 2020 – Dec 2020
   url: "https://github.com/ablepacifist/BattleSim"
-  description: Developed a Java-based strategy game designed primarily for my Dungeons & Dragons campaign. The game allows players to command large armies, taking turns to strategize and battle against each other.
+  description: Developed a Java-based strategy game for a D&D campaign, allowing players to command armies in turn-based gameplay. Focused on game mechanics and simulation programming.
+

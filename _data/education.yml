@@ -1,23 +1,23 @@
 # Degree
-- degree: Bachelor of Science, Computer Science
+- degree: Bachelor of Science
   uni: University of Manitoba
   year: 2025
   awards:
-    - award: 4th in CTF competition 2023
-    - award: 6th in CTF competition 2025
+    - award: Major- Computer Science
+    - award: Minor- Mathematics
   summary: |
+    Relevant Coursework:
     - Artificial Intelligence
     - Machine Learning
-    - Data Structures
     - Databases
     - Computer Graphics
-    - Object-Oriented Programming
     - Mathematics of Data Science
     - Graph Theory
     - Software Engineering
+    - Computer Organization
 
 - degree: High School Diploma
-  uni: Lakeville north high school
+  uni: Lakeville North High School
   year: 2017
   awards:
-   - award: AVID Award Scholarship
+    - award: AVID Award Scholarship

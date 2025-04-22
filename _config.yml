@@ -18,9 +18,9 @@ resume_contact_email:           "alexpdyak32@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "952-393-2170"
-resume_contact_address:         "969 Cambridge St, Winnipeg, MB R3M 3G4"
+resume_contact_address:         "Winnipeg, MB"
 
-resume_header_contact_info:     "969 Cambridge St, Winnipeg, MB • 952-393-2170 • alexpdyak32@gmail.com"
+resume_header_contact_info:     "Winnipeg, MB • 952-393-2170 • alexpdyak32@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A driven and versatile computer science professional with a solid foundation in programming, database management, and machine learning. Skilled in both high-level concepts and hands-on implementation, including neural networks and AI techniques. Adept at problem-solving, communication, and teamwork, with a passion for innovation and continuous self-improvement. Seeking opportunities to leverage technical expertise and creative thinking to contribute to impactful software development.</p>"

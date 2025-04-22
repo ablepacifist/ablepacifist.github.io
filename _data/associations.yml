@@ -1,15 +1,29 @@
 # Associations
-# comment out the urls if you do not wish to display them
+# Comment out the urls if you do not wish to display them
 
-
-- organization: IEEE
-  role: student member
-  year: 2019 - present
+- organization: IEEE (Institute of Electrical and Electronics Engineers)
+  role: Student Member
+  year: 2019 - Present
   url: https://www.ieee.org
-  summary: IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. IEEE and its members inspire a global community to innovate for a better tomorrow through its highly cited publications, conferences, technology standards, and professional and educational activities.
+  summary: IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. It inspires a global community to innovate through its publications, conferences, standards, and educational activities.
 
-- organization: ACM
-  role: student member
-  year: 2019 - present
+- organization: ACM (Association for Computing Machinery)
+  role: Student Member
+  year: 2019 - Present
   url: https://www.acm.org
-  summary: ACM, the Association for Computing Machinery, is the world's largest educational and scientific computing society, uniting educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. ACM strengthens the computing profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence.
+  summary: ACM is the world's largest educational and scientific computing society. It unites educators, researchers, and professionals to inspire dialogue, share resources, and address challenges in the computing field.
+
+- organization: WICS (Women in Computer Science)
+  role: Ally and Event Participant
+  year: 2019 - Present
+  summary: Participated in events promoting diversity and inclusion in technology as an ally supporting underrepresented groups.
+
+- organization: CSSA (Computer Science Student Association)
+  role: Event Participant and Contributor
+  year: 2019 - Present
+  summary: Assisted with review sessions and actively participated in community events organized by the association.
+
+- organization: D&DUM (Dungeons and Dragons University of Manitoba)
+  role: Dungeon Master
+  year: 2019 - Present
+  summary: Hosted charity and social one-shot campaigns, contributing to the group's community-building efforts through engaging storytelling and event organization.
