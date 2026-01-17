@@ -1,5 +1,16 @@
 # Projects
-# Projects
+
+# Live Metrics Platform
+- project: Live Metrics Platform
+  duration: Oct 2025 – Dec 2025
+  url: "https://github.com/mmcdmn/mmcd_metrics"
+  description: Led design and delivery of a centralized, live-updated metrics platform used by office staff and field technicians to track organizational goals at MMCD. Coordinated requirements gathering with multiple stakeholders and implemented automated data pipelines.
+
+# StockMan - Inventory Management Platform
+- project: StockMan
+  duration: Jan 2024 – Present
+  url: "https://github.com/ablepacifist"
+  description: Contributing as core backend engineer on cross-functional team for En Login Inc.'s cloud-accessible inventory manager. Designed MySQL schemas and built deep learning model for inventory prediction from historical usage patterns.
 
 # Mosquito Predictor
 - project: Mosquito Predictor

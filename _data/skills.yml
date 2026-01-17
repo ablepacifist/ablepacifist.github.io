@@ -32,6 +32,13 @@
 - skill: Software engineering principles
   description: Proficient in applying modular design and SOLID principles to ensure scalable and maintainable codebases.
 
+# GIS & Mapping Systems
+- skill: GIS & Mapping Systems
+  description: Proficient in creating and maintaining accurate GIS maps utilizing field data; experience with spatial data analysis and database integration for surveillance and control operations.
+
+# Leadership & Team Management
+- skill: Leadership & Team Management
+  description: Experience training and supervising field crews, coordinating multi-person projects, and managing cross-functional teams; certified in Google People Management Essentials.
 # Game development and simulation
 - skill: Game development and simulation
   description: Knowledgeable in game design and simulation programming, including graphical rendering and animations, applied in XWing Game and Text-Based Strategy Game.

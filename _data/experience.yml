@@ -1,15 +1,27 @@
 # Jobs
 
+# Software Engineer
+- company: En Login Inc.
+  position: Software Engineer
+  duration: Jan 2025 &mdash; Present
+  tasks:
+    - task: Coordinate development efforts across the engineering team, streamlining communication and workflow in an Agile environment.
+    - task: Review and approve code contributions from other engineers, ensuring adherence to clean code and design principles.
+    - task: Lead architect and maintainer of backend infrastructure for the company's core platform.
+    - task: Design and manage SQL-based databases to support application functionality and long-term data integrity.
+    - task: Design and deploy deep learning models that generate unique, customer-specific predictions.
+
 # Field Technician
 - company: Metropolitan Mosquito Control District (MMCD)
   position: Field Technician
-  duration: 2019 &mdash; 2024
+  duration: Apr 2019 &mdash; Dec 2025
   tasks:
-    - task: Located, sampled, and treated thousands of mosquito larvae habitats, contributing to public health efforts in the Minneapolis-St. Paul metropolitan area.
-    - task: Educated the public about MMCD programs and initiatives through direct interactions and public outreach events.
-    - task: Assisted colleagues with their assigned tasks as needed, fostering collaboration and teamwork.
-    - task: Coordinated with team members to accomplish large-scale tasks efficiently, dividing responsibilities to meet tight deadlines.
-    - task: Demonstrated conflict resolution skills when interacting with the public and resolving workplace disagreements.
+    - task: Collaborated with the Data Systems Coordinator to design and implement performance metrics using Agile methodology.
+    - task: Coordinated with cross-functional teams to accomplish large-scale treatment operations efficiently, managing task distribution and ensuring effective use of control materials.
+    - task: Trained and assisted colleagues with field techniques and safety procedures, demonstrating leadership and mentorship capabilities in team environments.
+    - task: Engineered a centralized system to make live-updated metrics accessible to both office staff and field technicians.
+    - task: Applied conflict resolution skills when interacting with the public and resolving workplace challenges, maintaining positive community relations.
+    - task: Performed mosquito surveillance and control operations across thousands of habitats in the Minneapolis-St. Paul metropolitan area.
 
 # Park Maintenance
 - company: City of Lakeville
@@ -19,4 +31,11 @@
     - task: Maintained cleanliness of city parks, including buildings and trails, ensuring a welcoming environment for residents and visitors.
     - task: Independently managed all weekend maintenance tasks without direct supervision, ensuring smooth operations in the absence of a supervisor.
     - task: Organized and prioritized daily tasks based on the city’s maintenance needs, balancing multiple responsibilities effectively.
-    - task: Demonstrated self-reliance and independent problem-solving in managing park upkeep and maintenance tasks.
+
+# Personal Care Assistant
+- company: Partners in Community Supports (PICS)
+  position: Personal Care Assistant
+  duration: 2016 &mdash; Present
+  tasks:
+    - task: Provided daily living assistance and personal care support for individuals with disabilities, demonstrating patience, empathy, and attention to detail.
+    - task: Maintained accurate care records and communicated effectively with healthcare teams and family members. Managed schedules and coordinated community transportation.
